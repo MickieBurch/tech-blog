@@ -1,6 +1,6 @@
 # tech-blog
 
-## descriptiom
+## description
 This application allows you to publish blog post and publish articles. 
 
 when opening the application and selecting the homepage you will be prompted to sign up. 
